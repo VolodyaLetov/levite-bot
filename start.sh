@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 levite_bot.py
+python3 bot.py
