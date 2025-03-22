@@ -1,3 +1,16 @@
+# Игнорировать session-файлы
+*.session
+
+# Игнорировать базу данных (если не хочешь пушить .db файл)
+database.db
+
+# Игнорировать файл с личными данными
+user_data.json
+
+# Игнорировать временные файлы Python
+__pycache__/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
