@@ -1,0 +1,16 @@
+{
+    "565211564": {
+        "state": "logged_in",
+        "name": "Volodymyr Trehubenko",
+        "password": "123578964",
+        "username": "Vova",
+        "is_admin": true
+    },
+    "454084606": {
+        "state": "logged_in",
+        "name": "Tamara Brilova",
+        "password": "Toma",
+        "username": "Toma",
+        "is_admin": false
+    }
+}
